@@ -1,0 +1,6 @@
+STREAM (cinza) - #96a0a0
+CHAMPION (vermelho) - #ff3f3f
+fundo (cinza-escuro) - #2d3035
+fundo (cinza-claro) - #383c42
+
+FONT - CENTURY GOTHIC
